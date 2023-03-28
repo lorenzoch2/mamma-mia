@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mamma-mia/static/css/main.656bddd7.css",
-    "main.js": "/mamma-mia/static/js/main.3e2aadfd.js",
+    "main.css": "/mamma-mia/static/css/main.d768a328.css",
+    "main.js": "/mamma-mia/static/js/main.a69e9a90.js",
     "index.html": "/mamma-mia/index.html",
-    "main.656bddd7.css.map": "/mamma-mia/static/css/main.656bddd7.css.map",
-    "main.3e2aadfd.js.map": "/mamma-mia/static/js/main.3e2aadfd.js.map"
+    "main.d768a328.css.map": "/mamma-mia/static/css/main.d768a328.css.map",
+    "main.a69e9a90.js.map": "/mamma-mia/static/js/main.a69e9a90.js.map"
   },
   "entrypoints": [
-    "static/css/main.656bddd7.css",
-    "static/js/main.3e2aadfd.js"
+    "static/css/main.d768a328.css",
+    "static/js/main.a69e9a90.js"
   ]
 }
