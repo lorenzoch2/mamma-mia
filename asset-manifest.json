@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mamma-mia/static/css/main.656bddd7.css",
+    "main.js": "/mamma-mia/static/js/main.3e2aadfd.js",
+    "index.html": "/mamma-mia/index.html",
+    "main.656bddd7.css.map": "/mamma-mia/static/css/main.656bddd7.css.map",
+    "main.3e2aadfd.js.map": "/mamma-mia/static/js/main.3e2aadfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.656bddd7.css",
+    "static/js/main.3e2aadfd.js"
+  ]
+}
