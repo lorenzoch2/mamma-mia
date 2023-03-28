@@ -1,0 +1,30 @@
+.detailTable{
+    display: flex;
+    flex-direction: column;
+    align-items: center !important;
+}
+
+.foto-pizza{
+    width: 100px;
+}
+
+.pTable{
+    width: 50%;
+    border: 1px solid bisque;
+}
+
+td, th{
+    border: 1px solid bisque;
+}
+
+tr:nth-child(even) {
+    background-color: bisque;
+}
+
+.cantidad{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    align-items: center;
+    justify-content: space-between;
+}
+

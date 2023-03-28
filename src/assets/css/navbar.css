@@ -1,0 +1,18 @@
+.navbar{
+  margin: 20px;
+  background-color: orangered;
+  height: 100px;
+  border-radius: 15px;
+  display: flex;
+}
+
+img{
+  width: 200px;
+  align-items: flex-start;
+}
+
+a{
+  align-items: flex-end;
+  color: white !important;
+  text-decoration: none !important;
+}
